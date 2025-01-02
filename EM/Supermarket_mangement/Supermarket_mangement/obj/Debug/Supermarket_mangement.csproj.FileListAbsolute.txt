@@ -1,0 +1,125 @@
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.exe.config
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.exe
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.pdb
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Bunifu.UI.WinForms.dll
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Bunifu.UI.WinForms.xml
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.csprojResolveAssemblyReference.cache
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Properties.Resources.resources
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.csproj.GenerateResource.Cache
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.exe
+c:\users\fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.pdb
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.home_page.resources
+C:\Users\Fwezi\documents\visual studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Home.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Emp_Form.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Homepage.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Oracle.ManagedDataAccessIOP.dll
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.test.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Employe.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\MetroFramework.dll
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.emp1.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.invoice.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Product.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Emp_info.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Form2.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.catgory.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Store.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Main1.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Store.Store1.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.store1.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Login.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Product1.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Bill.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.ADD.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.test2.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Rolr.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.premation.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Privileges.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Revoilk.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Detaile.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Reort_audi.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Vaction.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Vaction1.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\bin\Debug\Guna.UI2.dll
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.First_form.resources
+C:\Users\Fwezi\Documents\Visual Studio 2015\Projects\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Role1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.exe.config
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.exe
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.pdb
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.exe
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.pdb
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.csprojResolveAssemblyReference.cache
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.ADD.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Bill.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Detaile.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.emp1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Employe.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Emp_Form.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Emp_info.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.First_form.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Store.Store1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Form2.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.catgory.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Home.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Homepage.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.home_page.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.invoice.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Login.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Main1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.premation.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Privileges.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Product.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Product1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Properties.Resources.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Reort_audi.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Revoilk.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Role1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Rolr.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Store.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.store1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.test.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.test2.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Vaction.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Vaction1.resources
+C:\Users\G.B\Desktop\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.csproj.GenerateResource.Cache
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.exe.config
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.exe
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.pdb
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.exe
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Supermarket_mangement.pdb
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\bin\Debug\Bunifu.UI.WinForms.xml
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.csprojResolveAssemblyReference.cache
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.ADD.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Bill.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Detaile.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.emp1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Employe.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Emp_Form.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Emp_info.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.First_form.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Store.Store1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Form2.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.catgory.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Home.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Homepage.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.home_page.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.invoice.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Login.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Main1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.premation.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Privileges.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Product.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Product1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Properties.Resources.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Reort_audi.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Revoilk.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Role1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Rolr.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Store.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.store1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.test.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.test2.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Vaction.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.Vaction1.resources
+D:\الجامعة\المستوى الثالث\واجبات\EM\Supermarket_mangement\Supermarket_mangement\obj\Debug\Supermarket_mangement.csproj.GenerateResource.Cache
