@@ -1,0 +1,39 @@
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\bin\Debug\Farm.exe.config
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\bin\Debug\Farm.exe
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\bin\Debug\Farm.pdb
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.csprojResolveAssemblyReference.cache
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.Form1.resources
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.Form2.resources
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.Properties.Resources.resources
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.csproj.GenerateResource.Cache
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.exe
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\obj\Debug\Farm.pdb
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\bin\Debug\farmer.mdf
+D:\الجامعة\البرمجة المرئيه\برامج\Farm\Farm\bin\Debug\farmer_log.ldf
+G:\Farm\Farm\bin\Debug\Farm.exe.config
+G:\Farm\Farm\obj\Debug\Farm.exe
+G:\Farm\Farm\obj\Debug\Farm.pdb
+E:\Farm\Farm\bin\Debug\Farm.exe.config
+E:\Farm\Farm\obj\Debug\Farm.exe
+E:\Farm\Farm\obj\Debug\Farm.pdb
+E:\Farm\Farm\bin\Debug\Farm.exe
+E:\Farm\Farm\bin\Debug\Farm.pdb
+E:\Farm\Farm\obj\Debug\Farm.csprojResolveAssemblyReference.cache
+E:\Farm\Farm\obj\Debug\Farm.Form1.resources
+E:\Farm\Farm\obj\Debug\Farm.Form2.resources
+E:\Farm\Farm\obj\Debug\Farm.Properties.Resources.resources
+E:\Farm\Farm\obj\Debug\Farm.csproj.GenerateResource.Cache
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\bin\Debug\Farm.exe.config
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.exe
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.pdb
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\bin\Debug\Farm.exe
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\bin\Debug\Farm.pdb
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.csprojResolveAssemblyReference.cache
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.Form1.resources
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.Form2.resources
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.Properties.Resources.resources
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.csproj.GenerateResource.Cache
+D:\الجامعة\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.Form3.resources
+D:\الجامعة\المستوى الثاني\البرمجة المرئيهC#\برامج\Farm\Farm\bin\Debug\Farm.exe.config
+D:\الجامعة\المستوى الثاني\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.exe
+D:\الجامعة\المستوى الثاني\البرمجة المرئيهC#\برامج\Farm\Farm\obj\Debug\Farm.pdb
